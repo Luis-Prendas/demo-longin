@@ -16,7 +16,7 @@ export const {
           id: '4556',
           name: 'daniel',
           password: '123456',
-          role: 'USER'
+          role: 'ADMIN'
         }
 
         if (credentials?.username === user.name && credentials?.password === user.password) {
